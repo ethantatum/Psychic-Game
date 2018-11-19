@@ -7,13 +7,11 @@ h1 {
     margin: 0 auto;
 }
 
-button {
-    text-align: center;
-    margin: 0 auto;
-    width: 25%;
+img {
+    width: 100%;
 }
 
-#current-guess, #wrong-letters {
+#user-guesses, #guesses-left, #wins, #losses {
     font-family: 'Special Elite', cursive;
     font-size: 40px;
 }
