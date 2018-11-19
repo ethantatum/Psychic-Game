@@ -1,0 +1,21 @@
+body {
+    font-family: 'Russo One', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto;
+}
+
+button {
+    text-align: center;
+    margin: 0 auto;
+    width: 25%;
+}
+
+#current-guess, #wrong-letters {
+    font-family: 'Special Elite', cursive;
+    font-size: 40px;
+}
+
+
